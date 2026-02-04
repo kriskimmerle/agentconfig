@@ -1,0 +1,20 @@
+# Project Coding Standards
+
+## Language
+- TypeScript with strict mode
+- Use ESLint and Prettier
+
+## Architecture
+- Follow clean architecture patterns
+- Keep components small and focused
+- Write unit tests for all business logic
+
+## Git
+- Use conventional commits
+- Squash merge to main
+- Keep PRs under 300 lines
+
+## Code Style
+- Prefer const over let
+- Use async/await over .then()
+- Document public APIs with JSDoc
